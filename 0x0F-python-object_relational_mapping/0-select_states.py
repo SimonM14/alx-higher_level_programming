@@ -1,8 +1,11 @@
 #!/usr/bin/python3
 
-"""
-A script that lists all the states from the bhtn_0e_0_usa  database
-"""
+'''
+select_states - A script that lists all the states from the bhtn_0e_0_usa  database
+kahdukahduhauhda
+dibwaudhuawdaw
+'''
+
 import MySQLdb
 from sys import argv
 
