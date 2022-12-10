@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-select_states - A script that lists all the states from the bhtn_0e_0_usa  database
+A script that lists all the states from the bhtn_0e_0_usa  database
 """
 
 import MySQLdb
