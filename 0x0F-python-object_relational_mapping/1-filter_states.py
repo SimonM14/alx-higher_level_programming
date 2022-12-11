@@ -20,4 +20,4 @@ if __name__ == "__main__":
         if i[1][0] == 'N':
             print(i)
     cursor.close()
-    db.close()
+    con.close()
